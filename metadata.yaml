@@ -1,4 +1,8 @@
 _repo: Der-kleine-Ritter-Herr-Wolodyjowski-Historischer-Roman_49928
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49928-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Sienkiewicz, Henryk
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1052
     wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49928#Der-kleine-Ritter-Herr-Wolodyjowski-Historischer-Roman
 gutenberg_issued: '2015-09-10'
 gutenberg_type: Text
 identifiers:
